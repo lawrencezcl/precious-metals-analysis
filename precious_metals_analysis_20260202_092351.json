@@ -1,0 +1,120 @@
+{
+  "timestamp": 1769995431,
+  "datetime": "2026-02-02 09:23:51",
+  "silver": {
+    "symbol": "XAG/USD",
+    "current_price": 87.3,
+    "daily_high": 87.35,
+    "daily_low": 83.95,
+    "trend": "consolidation",
+    "ema7": 86.68,
+    "ema25": 85.45,
+    "ema99": 86.04,
+    "rsi": 70,
+    "atr": 0.4,
+    "macd_diff": 0.73,
+    "macd_dea": 0.58,
+    "macd_hist": 0.15,
+    "volume_trend": "increasing",
+    "last_klines": [
+      {
+        "time": 1769994231,
+        "open": 86.1,
+        "high": 86.35,
+        "low": 85.95,
+        "close": 86.3,
+        "volume": 2700
+      },
+      {
+        "time": 1769994531,
+        "open": 86.35,
+        "high": 86.6,
+        "low": 86.2,
+        "close": 86.55,
+        "volume": 2600
+      },
+      {
+        "time": 1769994831,
+        "open": 86.6,
+        "high": 86.85,
+        "low": 86.45,
+        "close": 86.8,
+        "volume": 2500
+      },
+      {
+        "time": 1769995131,
+        "open": 86.85,
+        "high": 87.1,
+        "low": 86.7,
+        "close": 87.05,
+        "volume": 2400
+      },
+      {
+        "time": 1769995431,
+        "open": 87.1,
+        "high": 87.35,
+        "low": 86.95,
+        "close": 87.3,
+        "volume": 2300
+      }
+    ]
+  },
+  "gold": {
+    "symbol": "XAU/USD",
+    "current_price": 2763,
+    "daily_high": 2766,
+    "daily_low": 2655,
+    "trend": "consolidation",
+    "ema7": 2743.27,
+    "ema25": 2703.74,
+    "ema99": 2722.55,
+    "rsi": 70,
+    "atr": 15.0,
+    "macd_diff": 23.29,
+    "macd_dea": 18.63,
+    "macd_hist": 4.66,
+    "volume_trend": "increasing",
+    "last_klines": [
+      {
+        "time": 1769994231,
+        "open": 2724,
+        "high": 2734,
+        "low": 2719,
+        "close": 2731,
+        "volume": 1600
+      },
+      {
+        "time": 1769994531,
+        "open": 2732,
+        "high": 2742,
+        "low": 2727,
+        "close": 2739,
+        "volume": 1550
+      },
+      {
+        "time": 1769994831,
+        "open": 2740,
+        "high": 2750,
+        "low": 2735,
+        "close": 2747,
+        "volume": 1500
+      },
+      {
+        "time": 1769995131,
+        "open": 2748,
+        "high": 2758,
+        "low": 2743,
+        "close": 2755,
+        "volume": 1450
+      },
+      {
+        "time": 1769995431,
+        "open": 2756,
+        "high": 2766,
+        "low": 2751,
+        "close": 2763,
+        "volume": 1400
+      }
+    ]
+  }
+}
