@@ -441,10 +441,15 @@ class RealtimeMarketAnalyzer:
                 cwd=self.output_dir, capture_output=True
             )
             
-            # 推送到远程（需要配置remote）
-            # subprocess.run(["git", "push", "origin", "main"], cwd=self.output_dir, capture_output=True)
-            
-            return True, "已提交到本地仓库"
+            # 推送到远程
+            result = subprocess.run(
+                ["git", "push", "origin", "main"],
+                cwd=self.output_dir, capture_output=True, timeout=120
+            )
+            if result.returncode == 0:
+                return True, "已推送到GitHub"
+            else:
+                return False, f"推送失败: {result.stderr[:100]}"
         except Exception as e:
             return False, str(e)
     
