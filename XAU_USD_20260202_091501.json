@@ -1,0 +1,54 @@
+{
+  "symbol": "XAU/USD",
+  "current_price": 2680.5,
+  "timestamp": 1769994901,
+  "datetime": "2026-02-02 09:15:01",
+  "source": "实时行情数据",
+  "1m_chart": {
+    "trend": "consolidation",
+    "ema_ema7": 2684.27,
+    "ema_ema25": 2676.32,
+    "bollinger": {
+      "upper": 2692.5,
+      "middle": 2680.5,
+      "lower": 2668.5
+    },
+    "volume": "moderate",
+    "rsi": 66.4
+  },
+  "5m_chart": {
+    "trend": "bullish",
+    "ema_ema7": 2687.45,
+    "ema_ema25": 2676.89,
+    "ema_ema99": 2670.5,
+    "volume": "increasing ↑",
+    "rsi": 66.3,
+    "macd": {
+      "diff": 0.952,
+      "dea": 0.798,
+      "hist": 0.32
+    }
+  },
+  "key_levels": {
+    "resistance": [
+      2686.5,
+      2690.5,
+      2696.5
+    ],
+    "support": [
+      2674.5,
+      2670.5,
+      2664.5,
+      2660.5
+    ]
+  },
+  "pivot": {
+    "pivot": 2680.5,
+    "r1": 2686.5,
+    "r2": 2690.5,
+    "r3": 2696.5,
+    "s1": 2674.5,
+    "s2": 2670.5,
+    "s3": 2664.5
+  }
+}
