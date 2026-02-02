@@ -1,0 +1,450 @@
+{
+  "timestamp": 1770008962,
+  "datetime": "2026-02-02 13:09:22",
+  "market_data": {
+    "silver": {
+      "price": 87.3,
+      "klines": [
+        {
+          "time": 1770005362,
+          "open": 84.3,
+          "high": 84.55,
+          "low": 84.15,
+          "close": 84.5,
+          "volume": 2500
+        },
+        {
+          "time": 1770005662,
+          "open": 84.55,
+          "high": 84.8,
+          "low": 84.4,
+          "close": 84.75,
+          "volume": 2400
+        },
+        {
+          "time": 1770005962,
+          "open": 84.8,
+          "high": 85.05,
+          "low": 84.65,
+          "close": 85.0,
+          "volume": 2300
+        },
+        {
+          "time": 1770006262,
+          "open": 85.05,
+          "high": 85.3,
+          "low": 84.9,
+          "close": 85.25,
+          "volume": 2200
+        },
+        {
+          "time": 1770006562,
+          "open": 85.3,
+          "high": 85.55,
+          "low": 85.15,
+          "close": 85.5,
+          "volume": 2100
+        },
+        {
+          "time": 1770006862,
+          "open": 85.55,
+          "high": 85.8,
+          "low": 85.4,
+          "close": 85.75,
+          "volume": 2000
+        },
+        {
+          "time": 1770007162,
+          "open": 85.8,
+          "high": 86.05,
+          "low": 85.65,
+          "close": 86.0,
+          "volume": 1900
+        },
+        {
+          "time": 1770007462,
+          "open": 86.05,
+          "high": 86.3,
+          "low": 85.9,
+          "close": 86.25,
+          "volume": 1800
+        },
+        {
+          "time": 1770007762,
+          "open": 86.3,
+          "high": 86.55,
+          "low": 86.15,
+          "close": 86.5,
+          "volume": 1700
+        },
+        {
+          "time": 1770008062,
+          "open": 86.55,
+          "high": 86.8,
+          "low": 86.4,
+          "close": 86.75,
+          "volume": 1600
+        },
+        {
+          "time": 1770008362,
+          "open": 86.8,
+          "high": 87.05,
+          "low": 86.65,
+          "close": 87.0,
+          "volume": 1500
+        },
+        {
+          "time": 1770008662,
+          "open": 87.05,
+          "high": 87.3,
+          "low": 86.9,
+          "close": 87.25,
+          "volume": 1400
+        },
+        {
+          "time": 1770008962,
+          "open": 87.3,
+          "high": 87.55,
+          "low": 87.15,
+          "close": 87.5,
+          "volume": 1300
+        }
+      ]
+    },
+    "gold": {
+      "price": 4449.5,
+      "klines": [
+        {
+          "time": 1770005362,
+          "open": 4299.5,
+          "high": 4314.5,
+          "low": 4291.5,
+          "close": 4309.5,
+          "volume": 1200
+        },
+        {
+          "time": 1770005662,
+          "open": 4311.5,
+          "high": 4326.5,
+          "low": 4303.5,
+          "close": 4321.5,
+          "volume": 1150
+        },
+        {
+          "time": 1770005962,
+          "open": 4323.5,
+          "high": 4338.5,
+          "low": 4315.5,
+          "close": 4333.5,
+          "volume": 1100
+        },
+        {
+          "time": 1770006262,
+          "open": 4335.5,
+          "high": 4350.5,
+          "low": 4327.5,
+          "close": 4345.5,
+          "volume": 1050
+        },
+        {
+          "time": 1770006562,
+          "open": 4347.5,
+          "high": 4362.5,
+          "low": 4339.5,
+          "close": 4357.5,
+          "volume": 1000
+        },
+        {
+          "time": 1770006862,
+          "open": 4359.5,
+          "high": 4374.5,
+          "low": 4351.5,
+          "close": 4369.5,
+          "volume": 950
+        },
+        {
+          "time": 1770007162,
+          "open": 4371.5,
+          "high": 4386.5,
+          "low": 4363.5,
+          "close": 4381.5,
+          "volume": 900
+        },
+        {
+          "time": 1770007462,
+          "open": 4383.5,
+          "high": 4398.5,
+          "low": 4375.5,
+          "close": 4393.5,
+          "volume": 850
+        },
+        {
+          "time": 1770007762,
+          "open": 4395.5,
+          "high": 4410.5,
+          "low": 4387.5,
+          "close": 4405.5,
+          "volume": 800
+        },
+        {
+          "time": 1770008062,
+          "open": 4407.5,
+          "high": 4422.5,
+          "low": 4399.5,
+          "close": 4417.5,
+          "volume": 750
+        },
+        {
+          "time": 1770008362,
+          "open": 4419.5,
+          "high": 4434.5,
+          "low": 4411.5,
+          "close": 4429.5,
+          "volume": 700
+        },
+        {
+          "time": 1770008662,
+          "open": 4431.5,
+          "high": 4446.5,
+          "low": 4423.5,
+          "close": 4441.5,
+          "volume": 650
+        },
+        {
+          "time": 1770008962,
+          "open": 4443.5,
+          "high": 4458.5,
+          "low": 4435.5,
+          "close": 4453.5,
+          "volume": 600
+        }
+      ]
+    },
+    "cme": {
+      "gold": {
+        "open_interest": 450000,
+        "commercial_net": 280000,
+        "noncommercial_net": -150000,
+        "retail_net": -130000,
+        "spec_net": -150000,
+        "commercial_long": 350000,
+        "commercial_short": 70000,
+        "noncommercial_long": 180000,
+        "noncommercial_short": 330000,
+        "long_short_ratio": 0.55,
+        "position_change": "+2.5%"
+      },
+      "silver": {
+        "open_interest": 180000,
+        "commercial_net": 85000,
+        "noncommercial_net": -45000,
+        "retail_net": -40000,
+        "spec_net": -45000,
+        "commercial_long": 95000,
+        "commercial_short": 10000,
+        "noncommercial_long": 55000,
+        "noncommercial_short": 100000,
+        "long_short_ratio": 0.55,
+        "position_change": "+1.8%"
+      }
+    },
+    "options": {
+      "gold": {
+        "put_call_ratio": 0.85,
+        "max_pain": 4600,
+        "open_interest_pc": 0.45,
+        "next_expiry": "2026-02-26",
+        "support_oi": [
+          4550,
+          4600,
+          4650
+        ],
+        "resistance_oi": [
+          4700,
+          4750,
+          4800
+        ],
+        "gamma_exposure": 0.32,
+        "vix_equivalent": 18.5
+      },
+      "silver": {
+        "put_call_ratio": 0.92,
+        "max_pain": 85.0,
+        "open_interest_pc": 0.48,
+        "next_expiry": "2026-02-26",
+        "support_oi": [
+          82,
+          84,
+          85
+        ],
+        "resistance_oi": [
+          88,
+          90,
+          92
+        ],
+        "gamma_exposure": 0.28,
+        "vix_equivalent": 22.0
+      }
+    }
+  },
+  "silver": {
+    "symbol": "XAG/USD",
+    "current_price": 87.5,
+    "daily_high": 87.55,
+    "daily_low": 84.15,
+    "trend": "consolidation",
+    "ema7": 86.88,
+    "ema25": 85.65,
+    "ema99": 86.24,
+    "rsi": 70,
+    "atr": 0.4,
+    "bollinger": {
+      "upper": 87.95,
+      "middle": 86.0,
+      "lower": 84.05
+    },
+    "macd_diff": 0.73,
+    "macd_dea": 0.58,
+    "macd_hist": 0.15,
+    "volume_trend": "decreasing",
+    "last_klines": [
+      {
+        "time": 1770007762,
+        "open": 86.3,
+        "high": 86.55,
+        "low": 86.15,
+        "close": 86.5,
+        "volume": 1700
+      },
+      {
+        "time": 1770008062,
+        "open": 86.55,
+        "high": 86.8,
+        "low": 86.4,
+        "close": 86.75,
+        "volume": 1600
+      },
+      {
+        "time": 1770008362,
+        "open": 86.8,
+        "high": 87.05,
+        "low": 86.65,
+        "close": 87.0,
+        "volume": 1500
+      },
+      {
+        "time": 1770008662,
+        "open": 87.05,
+        "high": 87.3,
+        "low": 86.9,
+        "close": 87.25,
+        "volume": 1400
+      },
+      {
+        "time": 1770008962,
+        "open": 87.3,
+        "high": 87.55,
+        "low": 87.15,
+        "close": 87.5,
+        "volume": 1300
+      }
+    ],
+    "wyckoff": {
+      "current_trend": "uptrend",
+      "volume_trend": "effort_decreasing",
+      "spring_test": 0,
+      "shakeout": true,
+      "supply_demand": "demand",
+      "wyckoff_phase": "markup",
+      "force_index": 0.33
+    },
+    "profile": {
+      "poc": 84.25,
+      "vah": 86.25,
+      "val": 84.25,
+      "value_area_width": 2.0,
+      "price_position": "above_value",
+      "development": "extended"
+    }
+  },
+  "gold": {
+    "symbol": "XAU/USD",
+    "current_price": 4453.5,
+    "daily_high": 4458.5,
+    "daily_low": 4291.5,
+    "trend": "consolidation",
+    "ema7": 4423.91,
+    "ema25": 4364.61,
+    "ema99": 4392.82,
+    "rsi": 70,
+    "atr": 23.0,
+    "bollinger": {
+      "upper": 4474.97,
+      "middle": 4381.5,
+      "lower": 4288.03
+    },
+    "macd_diff": 34.94,
+    "macd_dea": 27.95,
+    "macd_hist": 6.99,
+    "volume_trend": "decreasing",
+    "last_klines": [
+      {
+        "time": 1770007762,
+        "open": 4395.5,
+        "high": 4410.5,
+        "low": 4387.5,
+        "close": 4405.5,
+        "volume": 800
+      },
+      {
+        "time": 1770008062,
+        "open": 4407.5,
+        "high": 4422.5,
+        "low": 4399.5,
+        "close": 4417.5,
+        "volume": 750
+      },
+      {
+        "time": 1770008362,
+        "open": 4419.5,
+        "high": 4434.5,
+        "low": 4411.5,
+        "close": 4429.5,
+        "volume": 700
+      },
+      {
+        "time": 1770008662,
+        "open": 4431.5,
+        "high": 4446.5,
+        "low": 4423.5,
+        "close": 4441.5,
+        "volume": 650
+      },
+      {
+        "time": 1770008962,
+        "open": 4443.5,
+        "high": 4458.5,
+        "low": 4435.5,
+        "close": 4453.5,
+        "volume": 600
+      }
+    ],
+    "wyckoff": {
+      "current_trend": "uptrend",
+      "volume_trend": "effort_decreasing",
+      "spring_test": 0,
+      "shakeout": true,
+      "supply_demand": "demand",
+      "wyckoff_phase": "markup",
+      "force_index": 7.2
+    },
+    "profile": {
+      "poc": 4297.25,
+      "vah": 4392.75,
+      "val": 4297.25,
+      "value_area_width": 95.5,
+      "price_position": "above_value",
+      "development": "extended"
+    }
+  }
+}
