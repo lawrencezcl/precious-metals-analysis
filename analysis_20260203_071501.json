@@ -1,0 +1,146 @@
+{
+  "timestamp": 1770074101,
+  "datetime": "2026-02-03 07:15:01",
+  "gold_price": 4740.8,
+  "silver_price": 80.33,
+  "gold": {
+    "symbol": "XAU/USD",
+    "current_price": 4742.8,
+    "daily_high": 4746.8,
+    "daily_low": 4635.8,
+    "trend": "bullish",
+    "ema7": 4723.07,
+    "ema25": 4683.54,
+    "ema99": 4702.35,
+    "rsi": 70,
+    "atr": 15.0,
+    "macd_hist": 4.66,
+    "volume_trend": "decreasing",
+    "last_klines": [
+      {
+        "time": 1770072901,
+        "open": 4704.8,
+        "high": 4714.8,
+        "low": 4699.8,
+        "close": 4710.8,
+        "volume": 560
+      },
+      {
+        "time": 1770073201,
+        "open": 4712.8,
+        "high": 4722.8,
+        "low": 4707.8,
+        "close": 4718.8,
+        "volume": 530
+      },
+      {
+        "time": 1770073501,
+        "open": 4720.8,
+        "high": 4730.8,
+        "low": 4715.8,
+        "close": 4726.8,
+        "volume": 500
+      },
+      {
+        "time": 1770073801,
+        "open": 4728.8,
+        "high": 4738.8,
+        "low": 4723.8,
+        "close": 4734.8,
+        "volume": 470
+      },
+      {
+        "time": 1770074101,
+        "open": 4736.8,
+        "high": 4746.8,
+        "low": 4731.8,
+        "close": 4742.8,
+        "volume": 440
+      }
+    ],
+    "wyckoff": {
+      "current_trend": "uptrend",
+      "volume_trend": "effort_decreasing",
+      "spring_test": 0,
+      "supply_demand": "demand",
+      "wyckoff_phase": "markup",
+      "force_index": 3.52
+    },
+    "profile": {
+      "poc": 4639.55,
+      "vah": 4703.55,
+      "val": 4639.55,
+      "price_position": "above_value"
+    }
+  },
+  "silver": {
+    "symbol": "XAG/USD",
+    "current_price": 80.37,
+    "daily_high": 80.4,
+    "daily_low": 78.23,
+    "trend": "bullish",
+    "ema7": 79.98,
+    "ema25": 79.18,
+    "ema99": 79.56,
+    "rsi": 70,
+    "atr": 0.25,
+    "macd_hist": 0.09,
+    "volume_trend": "decreasing",
+    "last_klines": [
+      {
+        "time": 1770072901,
+        "open": 79.61,
+        "high": 79.76,
+        "low": 79.51,
+        "close": 79.73,
+        "volume": 1020
+      },
+      {
+        "time": 1770073201,
+        "open": 79.77,
+        "high": 79.92,
+        "low": 79.67,
+        "close": 79.89,
+        "volume": 960
+      },
+      {
+        "time": 1770073501,
+        "open": 79.93,
+        "high": 80.08,
+        "low": 79.83,
+        "close": 80.05,
+        "volume": 900
+      },
+      {
+        "time": 1770073801,
+        "open": 80.09,
+        "high": 80.24,
+        "low": 79.99,
+        "close": 80.21,
+        "volume": 840
+      },
+      {
+        "time": 1770074101,
+        "open": 80.25,
+        "high": 80.4,
+        "low": 80.15,
+        "close": 80.37,
+        "volume": 780
+      }
+    ],
+    "wyckoff": {
+      "current_trend": "uptrend",
+      "volume_trend": "effort_decreasing",
+      "spring_test": 0,
+      "supply_demand": "demand",
+      "wyckoff_phase": "markup",
+      "force_index": 0.12
+    },
+    "profile": {
+      "poc": 78.29,
+      "vah": 79.57,
+      "val": 78.29,
+      "price_position": "above_value"
+    }
+  }
+}
